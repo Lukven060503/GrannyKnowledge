@@ -1,0 +1,19 @@
+.top_bar {
+    color: black;
+    top: 10px;
+}
+
+.btn-close-white {
+    color: #fff;
+}
+.center-vertical {
+    display: flex;
+    align-items: center;
+}
+.animate-move {
+    transition: transform 0.5s ease-in-out;
+}
+
+.hidden {
+    display: none;
+}
